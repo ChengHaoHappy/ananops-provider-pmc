@@ -1,4 +1,4 @@
-package com.ananops.provider.core;
+package com.ananops.core;
 
 import com.ananops.provider.config.SwaggerProperties;
 import io.swagger.annotations.ApiOperation;

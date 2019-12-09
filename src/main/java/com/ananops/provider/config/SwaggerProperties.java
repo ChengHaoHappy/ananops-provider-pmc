@@ -13,7 +13,7 @@ public class SwaggerProperties {
 
     private String title = "ananops-provider-pmc";
 
-    private String description = "created by chenghao";
+    private String description = "created by ChengHao";
 
     private String version = "1.0";
 
@@ -21,7 +21,7 @@ public class SwaggerProperties {
 
     private String licenseUrl = "http://www.apache.org/licenses/LICENSE-2.0";
 
-    private String contactName = "chenghao";
+    private String contactName = "ChengHao";
 
     private String contactUrl = "http://ananops.net";
 
